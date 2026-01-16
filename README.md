@@ -360,7 +360,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@Ferd1y](https://github.com/Ferd1y)
+- GitHub: [@Ferd1y](https://github.com/Ferdi1y).
 - Email: FerdySaputra3828@gmail.com
 
 ---
