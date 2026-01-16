@@ -1,0 +1,10 @@
+services:
+
+  microservice-orders:
+    build:
+      context: ../microservices/orders
+    container_name: dapurnusantara-microservice-orders
+    ports:
+      - "8001:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./test.db
