@@ -360,8 +360,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Ferd1y](https://github.com/Ferd1y)
+- Email: FerdySaputra3828@gmail.com
 
 ---
 
